@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Freelance**
 
+- 🌱 I’m currently learning **AI and Machine learing**
+
 - 👯 I’m looking to collaborate on **Full-stack development**
 
 - 📫 How to reach me **eliroe4312@gmail.com**
